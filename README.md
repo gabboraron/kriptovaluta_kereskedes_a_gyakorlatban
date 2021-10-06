@@ -7,6 +7,10 @@
 # EA1
 Az utolsó negyedévek erősek a piacon olyan irányba amilyenbe az az évi mutat, nagyon fel vagy le szaladhat
 
+`market cap = forgalom x árfolyam`
+
+bitcoinnak csak 13%-a van a tőzsdén
+
 **kriptotőzsdék**
 - [binance](https://www.binance.com/en) (Kínából Máltára tették át a székhelyüket)
 - coinbase 
@@ -108,8 +112,33 @@ Ha valaki tart BNB-t akkor kevesebb a kezelési költség.
 - ha magas a gyertya kanóca akkor a legamgasabb eladúi érték magas, de a záró érték alacsonyabb.
 - ha magasabb a heti zárás mint a következő heti nyitó akkor az nem kedvez a következő hetinek. Zárás hétfő este 2-kor van a tőzsdén
 
+# EA4
+Stratégiák alapjai a technikai analízis
+## Trendek
+> ![trend types](https://capital.com/files/imgs/blocks/750xx/CPNINFOGRAPHICS_CRNARTICLES_CRTIMAGE_How_to_spot_a_stock_market_trend.png)
+> - ha azt látom, hogy heti siznten emelkedik a trend akkor nagyobb profit lehetőség van mint az órás/15perces emelkedésben
+> - ha még hosszabb szinten kereskedünk akkor a a swing trade
+> - bitcoinban egy ciklus 3-4 év mivel a felezéskehez kigazítjuk, és a BTC felezés 4 évente van
+> 
+> **soha ne kereskedj a trenddel szemben!**
+>
+> Ez alapján húzzuk be a diagonál trendvonalakat
+
+## TA alapok
+> - **elleneállás:** ez szab gátat a növekedésnek, innen esik lefele a trend, ebből vásárlásra is lehet következtetni
+>   - az **ellenállás áttörése** új vásárlóerőre utal (*bika*)
+> - **támasz**: ez a csökkenésnek szab gátat
+>    - **támasz áttörése** (*medve*) a mégnagyobb csökkenést hozhatja el
+> 
+> Heti ábrán érdmes támaszokat/ellenállást behúzni és azok közötti határt nézni, így kevésbé futunk bele nagy esésbe 
 
 
+## konszolidációk
 
+## Solana
+- decentralizált valaamit(*bank/hálózat/stb*) épít a világban
 
+## nano
+- a legolcsóbb tranzakciós hálózat
 
+[binance smart coin (bsc) scan](https://bscscan.com/)
