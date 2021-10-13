@@ -142,3 +142,30 @@ Stratégiák alapjai a technikai analízis
 - a legolcsóbb tranzakciós hálózat
 
 [binance smart coin (bsc) scan](https://bscscan.com/)
+
+# EA5
+> ismétlés: *támaszok - ellenálások vízszintesek, a trendvonalak mentén meg változik az ármozgás*
+## TA lépések
+1. 1w támaszok/ellenállások
+2. 1w trendvonalak
+3. stratégia
+4. kereskedés várható időpontja
+5. hányszot tesztelte a szóban forgó támaszt ellenállás a mozgás a közelmúltban
+6. kereksedési helyzet kialakítása
+    - 1d, 4h elemzés
+    - range és EQ mghatározás
+    - alakzat keresés (*miből tör ki, miben formálódik?*)
+    - stratégiai szempojntok (Buy, SL, Target)
+
+- csökkenő trend esetén beszállni és keresni a trend alját olyan mint hulló kések alá beáálni, ezért nem az alponton kell vásárolni, hanem mikor fordul a trend.
+- ha mégis találgatunk pontokra akkor azt heti ábáárn érdemes. 
+- logaritmikus skálát használjuk
+- ha csökkenő trendek vannak akkor az összes buy jelzés false a piacon
+- ha két bullish angle pin van a piacon akkor áttörés várható a piacon
+- [bullish angle pin](https://dotnettutorials.net/wp-content/uploads/2020/03/img_270.png)
+- az ártartomány egyensúly pontja az aquilibrium pont egy támasz ellenállás ami középen van
+- az egyensúlyi pont fölöttről indítunk támadást az ellenállások felé, hogy esélye legyen áttörni
+
+ETH december-január környékén törheti át.
+- bitchain
+- 
