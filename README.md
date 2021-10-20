@@ -168,4 +168,38 @@ Stratégiák alapjai a technikai analízis
 
 ETH december-január környékén törheti át.
 - bitchain
-- 
+
+# EA6 - konszolidáció
+- trendfordító/trendfolytató bika/medve alakzatok
+- zászló - utána fel/le indul
+- ármozgás lelassul
+
+egy emelkedő trend 5 hullámból  épül fel:
+1. fel
+2. le
+3. fel
+4. le
+5. nő - fomo - lufi veszély *!*
+
+> https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05p0rrx
+> 
+> bitcoin felezés - 2024, febr, 4 évente
+
+trend frodítás hosszabb mint a trend folytatás
+
+csökkenő - növekvő háromszög => trendvonal + támasz/ellenállás
+
+Emelkedő háromszögeknél szűkül a volatilitás ezért valamilyen irányba várható kitörés.
+
+*stoplos*t a belépő gyertya laá fél pozícióval, célárat a kétszer annyival feljebb. *Ez daytradnél nem igaz!*
+
+atom - eth
+
+Mikor a BTC megindul akkor az atlok le, de utána ismét megindulnak amikor a bc már esik:
+https://cointelegraph.com/news/bitcoin-breaking-new-highs-in-q4-will-temporarily-turn-alts-to-dust-analyst
+
+
+
+
+
+
