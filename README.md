@@ -198,8 +198,40 @@ atom - eth
 Mikor a BTC megindul akkor az atlok le, de utána ismét megindulnak amikor a bc már esik:
 https://cointelegraph.com/news/bitcoin-breaking-new-highs-in-q4-will-temporarily-turn-alts-to-dust-analyst
 
+# EA 8 - Trendfordító medve alakzatok 
+> Margin account a tőke áttétes, euróban tartod és arra veszed fel a btc hitelt. Decemberben mindent euróba, és onnan margin fedélzetre, és nyitni a piacokra btc hitellel alt/btc piacon. Ha esik a btc piac akkor kevesebb hitelt kell visszafizetni. 
+>
+> Twitter [@planb](https://twitter.com/100trillionUSD) [stock2flow modellje](https://stats.buybitcoinworldwide.com/stock-to-flow/) 
 
+**Alakzatok érvényesülése: *csökkenő trend esik egy árcsatornában, stagnál majd kitör, trendfolytató alakzatoknál be lehet szállni, majd stagnál, amikor kiszállási hely van és esik.***
 
+### Dupla csúcs 
+> Egy M alak, az első csúcs után már be lehet húzni, a nyakvonalnál be lehet húzni. 
 
+### váll fej
+> Bal váll - fej - jobb váll 
+> ![head and shoulders pattern](https://keysoftgroup.net/wp-content/uploads/2019/09/head-and-shoulders-Main-300x168.png)
 
+Rsivel, fibonaccival párosítva. 
 
+### emelkedő ék 
+> Más trendfordítókkal jelennek meg együtt. Általában 5 érintési pontot kiadva. Szűkül a volatilitás. 
+> 
+> A magasság mindig a cél árral jön, sokszor false jelzés, ezért csak jelzőként tekinthető. 
+>
+> Amikor a btc fordul az altok még gyorsabban esetnek. 
+> 
+> A nyakvonalnál várható a fordulás maga, ez duplacsúcsnál vagy 
+>
+> ![double top pattern](https://a.c-dn.net/b/30t8dd/double-top-pattern_body_DoubleTop.png.full.png)
+
+### Emelkedő trend
+5 szakaszból áll, a 3. A leghosszabb, az 5. A vége. 
+A hullám elmélet szerint a hullám is alhullámokból áll. Ez Eliot nevéhez fűződik. 
+
+### Visszatesztelés 
+ Visszatér a korábbi támaszhoz az ár. 
+
+[ETF](https://en.wikipedia.org/wiki/Exchange-traded_fund#:~:text=An%20exchange%2Dtraded%20fund%20(ETF,are%20traded%20on%20stock%20exchanges.&text=Most%20ETFs%20are%20index%20funds,index%20or%20bond%20market%20index.)ek
+
+Chainlink, xrp, 
