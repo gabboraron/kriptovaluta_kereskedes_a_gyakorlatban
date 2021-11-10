@@ -235,3 +235,24 @@ A hullám elmélet szerint a hullám is alhullámokból áll. Ez Eliot nevéhez 
 [ETF](https://en.wikipedia.org/wiki/Exchange-traded_fund#:~:text=An%20exchange%2Dtraded%20fund%20(ETF,are%20traded%20on%20stock%20exchanges.&text=Most%20ETFs%20are%20index%20funds,index%20or%20bond%20market%20index.)ek
 
 Chainlink, xrp, 
+
+# EA9
+Zöld kriptovaluta [powerledger](https://www.powerledger.io)
+
+BNP short jövőre 
+
+Stellar 
+Xrp ripple fed gond 
+
+BTC long és BTC short figyelésével lehet megnézni merre fogja a tőzsde maga változtatni a piacot. 
+
+Debreczeni Balázs volt az első kriptobányász. 
+Atom
+
+Cardano már nem fog új csúcsot hozni. 
+
+
+
+
+
+
