@@ -33,10 +33,12 @@ https://www.tradingview.com/
 
 **érdemes követni:**
 twitteren:
-- [cryptophenix](https://twitter.com/cryptophenix)
-- bitcoin news
-- [DonAlt](https://twitter.com/CryptoDonAlt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-- [node invstor](https://twitter.com/nodeinvestor?lang=en)
+- [@cryptophenix](https://twitter.com/cryptophenix)
+- [@bitcoin news](https://twitter.com/BTCTN)
+- [@DonAlt](https://twitter.com/CryptoDonAlt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [@node invstor](https://twitter.com/nodeinvestor?lang=en)
+- [@planB](https://twitter.com/100trillionUSD)
+- [@cointelegraph](https://twitter.com/Cointelegraph)
 
 híroldalak:
 - [cointelegraph](https://cointelegraph.com/)
@@ -66,7 +68,10 @@ A google authenticaterrel össze kell kapcsolni, de nem érdemes telefonról has
 
 Trader botok: https://www.b-cube.ai/index.html
 
-**tőkeáttétes kereskedés:** hitelt veszek fel a tőzsdétől, hogy ha lenne 1000$om és 2x tőkeáttétem van akkor az olyan mintha 2000$ lenne, tehát 10% profit 20%ot ad, az eredeti 1000$ra! Ugyanígy igaz a negatívumra is.
+> **tőkeáttétes kereskedés:** 
+> 
+> - hitelt veszek fel a tőzsdétől, hogy ha lenne 1000$om és 2x tőkeáttétem van akkor az olyan mintha 2000$ lenne, tehát 10% profit 20%ot ad, az eredeti 1000$ra! Ugyanígy igaz a negatívumra is.
+> - óránként fizetek díjat a hitelre!
 
 Stellariumon alacsonyak a tranzakciós költségek. Fontos, hogy azonos blokkláncról utaljunk mint ahova fogadunk!
 
@@ -104,6 +109,7 @@ Ha valaki tart BNB-t akkor kevesebb a kezelési költség.
 
 
 ### gyertya
+![gyertya anatómia](https://tozsdeoktatas.hu/wp-content/uploads/2020/09/japan-gyertyak.jpg)
 ![gyertya](https://cryptopotato.com/wp-content/uploads/2017/12/p1_japanese_candles.jpg)
 - a gyertya az egy időegységre vonatkozóan mutatja az értéket, tehát attól függően mekkora lebontásban nézzük akkora egy gyertya
 - ha zöld a gyettya akkor a napi nyitóára alacsonyaban történt mint a záró
@@ -242,7 +248,7 @@ Zöld kriptovaluta [powerledger](https://www.powerledger.io)
 BNP short jövőre 
 
 Stellar 
-Xrp ripple fed gond 
+Xrp ripple fed gondok 
 
 BTC long és BTC short figyelésével lehet megnézni merre fogja a tőzsde maga változtatni a piacot. 
 
@@ -251,8 +257,25 @@ Atom
 
 Cardano már nem fog új csúcsot hozni. 
 
+# EA10 - trendkövető alakzatok
+> - *[coingraph opensourcce proj](https://awesomeopensource.com/project/derogab/coingraph)*
+> - *medvepiacon érdemes tanulni*
+> - a legtöbb kereskedő a kétszeres hozam/vesztség rátán kereskedik
 
+> **Ha nagy az order adott áron akkor nehéz letörni annál lejjebb, így az egy jó támasz lehet későbbre!**
 
+| Megnevezés              |                                     ábra                                                              |             -            |
+| ----------------------- |:-----------------------------------------------------------------------------------------------------:| ------------------------:|
+| Emelkedő háromszög      | ![Emelkedő háromszög](https://traderklub.hu/wp-content/uploads/2018/08/novekvo_haromszogek_long.png)  | több mint 10-12 gyertya  |
+| Szimetrikus háromszög   | ![Szimetrikus háromszög](https://cryptofalka.hu/wp-content/uploads/2019/08/14-szimmetrikus.png)       | több mint 10-12 gyertya  |
+| Bika zászló             | ![Bika zászló](https://cryptofalka.hu/wp-content/uploads/2019/08/12flag.png)                          | 10-12 gyertya            |
 
-
-
+> ### Spinning top gyertya
+![Spinning top gyertya](https://a.c-dn.net/b/3TCoSI/spinning-top-candlestick_body_2019_05_20_15_30_50_Untitled_Paint.png.full.png)
+>
+> A nyitó és záró ár közel van egymsához, de a legmagasabb eladás és vétel nagy, ez szerepel a következő alakzatokban:
+>
+> | Megnevezés              |                                     ábra                                                              |
+> | ----------------------- |:-----------------------------------------------------------------------------------------------------:|
+> | esthajnal csillag      | ![esthajnal csillag](http://static-news.moneycontrol.com/static-mcnews/2018/11/Image204112018.jpg)     |
+> | hajnal csillag         | ![hajnal csillag](http://www.dstockmarket.com/images/morningstar1.png)                                 | 
