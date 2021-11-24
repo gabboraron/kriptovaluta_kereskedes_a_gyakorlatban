@@ -2,7 +2,7 @@
 > Krómer Bence | kromerbence@gmail.com
 
 > **Számonkérés:**
-> - 
+> - portfolio összeállítás
 
 # EA1
 Az utolsó negyedévek erősek a piacon olyan irányba amilyenbe az az évi mutat, nagyon fel vagy le szaladhat
@@ -264,11 +264,11 @@ Cardano már nem fog új csúcsot hozni.
 
 > **Ha nagy az order adott áron akkor nehéz letörni annál lejjebb, így az egy jó támasz lehet későbbre!**
 
-| Megnevezés              |                                     ábra                                                              |             -            |
-| ----------------------- |:-----------------------------------------------------------------------------------------------------:| ------------------------:|
-| Emelkedő háromszög      | ![Emelkedő háromszög](https://traderklub.hu/wp-content/uploads/2018/08/novekvo_haromszogek_long.png)  | több mint 10-12 gyertya  |
-| Szimetrikus háromszög   | ![Szimetrikus háromszög](https://cryptofalka.hu/wp-content/uploads/2019/08/14-szimmetrikus.png)       | több mint 10-12 gyertya  |
-| Bika zászló             | ![Bika zászló](https://cryptofalka.hu/wp-content/uploads/2019/08/12flag.png)                          | 10-12 gyertya            |
+| Megnevezés              |                                     ábra                                                              |         alakja | belépés | időtartam |
+| ----------------------- |:-----------------------------------------------------------------------------------------------------:| ------------------------:|:--:|:---:|
+| Emelkedő háromszög      | ![Emelkedő háromszög](https://traderklub.hu/wp-content/uploads/2018/08/novekvo_haromszogek_long.png)  | több mint 10-12 gyertya  |  |  |
+| Szimetrikus háromszög   | ![Szimetrikus háromszög](https://cryptofalka.hu/wp-content/uploads/2019/08/14-szimmetrikus.png)       | több mint 10-12 gyertya  |  |  |
+| Bika zászló             | ![Bika zászló](https://cryptofalka.hu/wp-content/uploads/2019/08/12flag.png)                          | max 8-12 spinning top gyertya | xx%os növekedéssel indul | 1-4 órás kereskedésben jó |
 
 > ### Spinning top gyertya
 ![Spinning top gyertya](https://a.c-dn.net/b/3TCoSI/spinning-top-candlestick_body_2019_05_20_15_30_50_Untitled_Paint.png.full.png)
@@ -279,3 +279,19 @@ Cardano már nem fog új csúcsot hozni.
 > | ----------------------- |:-----------------------------------------------------------------------------------------------------:|
 > | esthajnal csillag      | ![esthajnal csillag](http://static-news.moneycontrol.com/static-mcnews/2018/11/Image204112018.jpg)     |
 > | hajnal csillag         | ![hajnal csillag](http://www.dstockmarket.com/images/morningstar1.png)                                 | 
+> | Bullish engulfing (elnyelő gyerta) | ![Bullish engulfing](http://tutorials.topstockresearch.com/candlestick/Bullish/BullishEngulfing/AxisBankLtdBullishEngulfingPatternFormation.png) |
+
+# EA11 - Stratégiák
+https://charts.cointrader.pro/ innen rdemes nézni a piaci modelleket
+
+BTCUSDSHORTS ábrán érdems nézni mikor ütik ki a shortolókat, ha vannak shortok vannak longok is nyilván és azt is érdemes lehet ilyenkor nézni.
+
+## Stratégia: Bika zászló kereskedés: 70%-ban bejön
+Egy elég erős emelkedés után konszolidálódik az emelkedés, ekkor csökken, ez a bika zászló.
+
+kockázathozamtényező
+- 1-2% stop
+- 2x risk reward
+
+Napi ábrán kiszúrható, órain is, de hetin nehéz.
+
