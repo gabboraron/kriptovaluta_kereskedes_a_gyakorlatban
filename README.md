@@ -295,3 +295,20 @@ kockázathozamtényező
 
 Napi ábrán kiszúrható, órain is, de hetin nehéz.
 
+Ha nagy a vásárlóerő a piacon akkor sok bikazászló lehet egymás mellett emelkedő alakban, megtévesztő lehet, és emelkedő háromszögre emlékeztethet, de ilynekor a grafikon előélete dönt.
+
+# EA12 - emlekedő háromszög stratégia
+Emelkedő háromszög után a piac úgy konszolidál, hogy emelkedő alpontok vannak, egyre közelebbbről támadunk egy ellenállást, minden egyre beszűkült háromszöget egy kitörés követhet. Minnél hosszabb ideig tart ez az alakzat annál nagyobb lenületet vehet a végére. 
+
+![emelkedő háromszög](https://www.forexbazis.hu/files/oktatas/18.jpg)
+
+## Eliot wave 
+![Eliot wave](https://1.bp.blogspot.com/-Ov_r4lj5NDo/YQPiY9pR26I/AAAAAAAAC0c/k445uBzm3CAVnz_zFvi6skMvoiDWI5sqwCLcBGAsYHQ/w640-h472/How%2BTo%2BLearn%2BElliott%2BWave%2BTheory.png)
+
+## trendfordító stratégia - 4h ábrákon
+- berajzoljuk a csökkenő trendvonalat, úgy, hogya kilógóvállakat is érinti
+- minnél több alakzatot találunk egy lakazatban annál több validitási pont
+- létrehzzuk a csökkenő árcsatornát
+- keresünk egy duplalajas formálódást
+- ha annak a nyakvonalának meghatározott értékekor tovább nő kkor megtörte a korábbi trendet.
+- 
