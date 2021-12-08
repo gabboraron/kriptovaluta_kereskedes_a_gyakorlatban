@@ -311,4 +311,18 @@ Emelkedő háromszög után a piac úgy konszolidál, hogy emelkedő alpontok va
 - létrehzzuk a csökkenő árcsatornát
 - keresünk egy duplalajas formálódást
 - ha annak a nyakvonalának meghatározott értékekor tovább nő kkor megtörte a korábbi trendet.
-- 
+
+# EA13 - 5-15 perces daytradek
+> minnél rövidebb távon nézzük a stop értéke és a célár értéke is e mentén változik.
+> - rövid célár
+> - tőkeáttéttel érdemes 
+> - bikazászló és bullish engulfing itt is működik
+> 
+> Ha heti/napi ábrán fontosabb támasznál van a mozgás akkor számítsunk az onnan való elletnétes pattanásra. Rövid távon az ETH BTC ajánlott shorton is! 
+> 
+> ## 4 órás ábrán nézve min 1 hét de lehet hónap is:
+> **módszer:** kezdeti erős emelkedés után egy csökkenő árcsatornában eliundulunk lefelé, 5 hullámban. Az 5. hullám után várhatjuk a kitörést, a 3. és az 5. alpontjai kb azonos szinten helyezkednek el. Hasonlít kicsit az eső ékhez:
+> 
+> ![eső ék](https://cryptofalka.hu/wp-content/uploads/2019/08/15-ekek.png)
+> 
+> 
