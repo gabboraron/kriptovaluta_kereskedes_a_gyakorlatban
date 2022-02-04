@@ -324,5 +324,26 @@ Emelkedő háromszög után a piac úgy konszolidál, hogy emelkedő alpontok va
 > **módszer:** kezdeti erős emelkedés után egy csökkenő árcsatornában eliundulunk lefelé, 5 hullámban. Az 5. hullám után várhatjuk a kitörést, a 3. és az 5. alpontjai kb azonos szinten helyezkednek el. Hasonlít kicsit az eső ékhez:
 > 
 > ![eső ék](https://cryptofalka.hu/wp-content/uploads/2019/08/15-ekek.png)
-> 
-> 
+
+-----
+
+infok: hélium bányászat megérheti
+
+# piaci szabályok
+klasszikus altok: 
+- XRP
+- ETH
+- ADA
+
+| BTC/fiat | Alt/fiat, stablecoin | perifériák/menekülő |
+| -------- | ---------------------| ------------------- |
+| volatilis emelkedés xx% | emelkedik | esik | BTC, alt/usdt
+| volatilis esés xx% | esés | esés | EUR stablecoin
+| stabil | emelkedés | emelkedés | alt/BTC |
+
+
+**A stablecoinok is bezuhanhatnak erős medve/bika piac esetén, ha felügyeleti ellenőrzés alatt állnak, akkor 1-2 hét után rendbejönnek**
+
+Felhalmozni akkor érdemes amikor a felezés megtörtént de még nem növekszik annyira, hogy a felezések félidejében legyünk. 
+
+
