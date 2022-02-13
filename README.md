@@ -346,4 +346,48 @@ klasszikus altok:
 
 Felhalmozni akkor érdemes amikor a felezés megtörtént de még nem növekszik annyira, hogy a felezések félidejében legyünk. 
 
+# longok
+T.f.h. a BTC gyengül/trendfordul akkor az altook nagyobbat esnek, érdemes  zárni az altokat.
+
+trend **folytatás** 
+- indikátorai: 
+  - RSI 80-40
+  - MACD pull back
+- alkazatok:
+  - bika zászló
+  - emelkedő háromszög
+  - cup and handle
+- támasz:
+  - 10 ema/ 20 ema pattanás
+- gyertyák:
+  - bullish engulfing
+  - morningstar
+
+trend **fordulás**:
+- indikátorok:
+  - 3-as div
+  - 10 ema&50 ema
+  - 5. hullám
+- alakzat: 
+  - dupla alj
+  - csökkenő árcsoport
+  - fordított váll fej
+  - cup and handle
+- támasz: 1 heti támaszok
+- gyertyák: 2/3 db aljpont 1 heti támaszon
+
+40knál lehet BTCnél pozicíót felvenni
+
+sokszor duplaalj alakzattal pattannak!
+
+- EOS március körül nőhet
+- LINK - hosszú távon
+- ADA még esik
+- MATIC
+- ETC 
+
+Májusban pattanhat, ha a tél is erős volt.
+
+
+
 
